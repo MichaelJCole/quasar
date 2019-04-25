@@ -3,6 +3,7 @@ title: Dropdown Button
 related:
   - /vue-components/button
   - /vue-components/button-group
+  - /layout/floating-action-button
 ---
 QBtnDropdown is a very convenient dropdown button. Goes very well with [QList](/vue-components/lists-and-list-items) as dropdown content, but it's by no means limited to it.
 
